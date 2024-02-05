@@ -1,4 +1,4 @@
-# Discord Messenger Loader (Portable)
+# Discord Loader (Portable)
 Built using windows batch & Python - A Free to use and edit project (but dont be a bast$rd)
 
 ## Feature
